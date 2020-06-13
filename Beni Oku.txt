@@ -1,0 +1,4 @@
+XAMPP Server kullanılarak yapılmıştır (test/login.sql,test/masalar.sql)
+ayrıca sql dosyalarını(örnek dosyalar için )githuba attım
+java mysql-connector.jar lib kullanılarak serverla iletişim sağlandı(dist/lib)
+yeni kullanıcı eklemek için admin şifre "1111"
